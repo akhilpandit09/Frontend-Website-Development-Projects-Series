@@ -1,2 +1,2 @@
-# Food-and-Restaurant-website
-Complete Food and Restaurant website are designed by using HTML, CSS, Bootstrap 5, and, JavaScript 
+# website Development Projects Series
+we are here using HTML, CSS, JavaScript, BootStrap, and PHP. 
